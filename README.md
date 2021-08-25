@@ -1,2 +1,1 @@
-# createpb
- create go pb file
+# pbgo
