@@ -1,4 +1,4 @@
-module github.com/maybgit/pbgo
+module github.com/lsls907/createpb
 
 go 1.13
 

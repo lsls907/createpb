@@ -1,4 +1,4 @@
-package pbgo
+package createpb
 
 import (
 	"testing"
